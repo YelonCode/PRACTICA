@@ -1,2 +1,3 @@
 <h1>APRENDIENDO A CREAR UN REPOSITORIO</h1>
 - Estado del proyecto: Aprendiendo......
+- Haciendo un cambio en el readme para probar la función de "git pull"
